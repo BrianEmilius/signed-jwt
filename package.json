@@ -1,0 +1,19 @@
+{
+  "name": "signed-jwt",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianEmilius/signed-jwt.git"
+  },
+  "author": "Brian Emilius <brian@brianemilius.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrianEmilius/signed-jwt/issues"
+  },
+  "homepage": "https://github.com/BrianEmilius/signed-jwt#readme"
+}
