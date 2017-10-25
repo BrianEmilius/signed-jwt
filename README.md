@@ -2,6 +2,10 @@
 
 Create and validate signed JSON Web Tokens using SHA-512.
 
+  [![NPM Version][npm-image]][npm-url]
+  [![NPM Downloads][downloads-image]][downloads-url]
+  [![Known Vulnerabilities](https://snyk.io/test/npm/signed-jwt/badge.svg)](https://snyk.io/test/npm/signed-jwt)
+
 ## Usage
 
 ```JavaScript
@@ -49,3 +53,8 @@ Checks if an access token is valid
 | --- | --- | --- |
 | token | <code>string</code> | the access token |
 | secret | <code>string</code> | secret key |
+
+[npm-image]: https://img.shields.io/npm/v/signed-jwt.svg
+[npm-url]: https://npmjs.org/package/signed-jwt
+[downloads-image]: https://img.shields.io/npm/dm/signed-jwt.svg
+[downloads-url]: https://npmjs.org/package/signed-jwt
