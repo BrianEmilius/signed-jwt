@@ -6,6 +6,11 @@ Create and validate signed JSON Web Tokens using SHA-512.
   [![NPM Downloads][downloads-image]][downloads-url]
   [![Known Vulnerabilities](https://snyk.io/test/npm/signed-jwt/badge.svg)](https://snyk.io/test/npm/signed-jwt)
 
+## Installation
+```
+npm install --save signed-jwt
+```
+
 ## Usage
 
 ```JavaScript
